@@ -251,12 +251,14 @@ header{
 }
 .sub-heading{
     font-size:1.3rem;
+        text-align:right;
+
 }
 .post-text{
     font-size: 1rem;
     line-height: 1.6rem;
     margin:1rem 0;
-    text-align:justify;
+    text-align:right;
 }
 .link-dw{
     color: var(--background-color);
@@ -291,6 +293,11 @@ header{
    .nav{
     padding:14px 0;
    }
+   .sub-heading{
+    font-size:1.3rem;
+        text-align:right;
+
+}
    .post-container{
       margin: 0 auto;
         width: 95%;
@@ -318,6 +325,11 @@ header{
    .header-image{
     height: 360px;
    }
+   .sub-heading{
+    font-size:1.3rem;
+        text-align:right;
+
+}
    .post-header{
     height: 400px;
    }
