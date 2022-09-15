@@ -294,6 +294,7 @@ header{
     padding:14px 0;
    }
    .sub-heading{
+    margin-top: 30px ;
     font-size:1.3rem;
         text-align:right;
 
@@ -332,7 +333,8 @@ header{
     height: 360px;
    }
    .sub-heading{
-    margin: 3rem 0;
+    margin-top: 80px ;
+    margin-bottom:10px ;
     font-size:1.3rem;
         text-align:right;
 
@@ -340,7 +342,7 @@ header{
 .post-text{
     font-size: 1rem;
     line-height: 1.6rem;
-    margin:1rem 0;
+    margin-bottom:10px ;
     text-align:right;
 }
    .post-header{
